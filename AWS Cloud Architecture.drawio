@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:30:59.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LvmuCpxV5gNWZU8pDlLP" version="24.0.6" type="github">
+  <diagram name="Page-1" id="HGANnnIFDv5b2bcPX-8I">
+    <mxGraphModel dx="1313" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SvStDxpbIUpfuI_emMg4-2" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="180" width="580" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="SvStDxpbIUpfuI_emMg4-3" value="" style="dashed=0;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="52" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SvStDxpbIUpfuI_emMg4-4" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="90" width="730" height="790" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
