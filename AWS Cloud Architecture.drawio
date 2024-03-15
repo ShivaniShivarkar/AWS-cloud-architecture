@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T15:56:44.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="81oQVI3JHJm99rK4V4vJ" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T15:57:41.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1OqPbd8tf5OJqHczgBvp" version="24.0.6" type="github">
   <diagram name="Page-1" id="HGANnnIFDv5b2bcPX-8I">
-    <mxGraphModel dx="2759" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,6 +172,16 @@
         <mxCell id="ieE3qM7nnkE8MddVRtgH-113" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RDS Master&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ieE3qM7nnkE8MddVRtgH-100">
           <mxGeometry x="37.25" y="136" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ieE3qM7nnkE8MddVRtgH-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ieE3qM7nnkE8MddVRtgH-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.03999999999976" y="136" as="sourcePoint" />
+            <mxPoint x="187.79000000000002" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="99.78999999999999" y="140" />
+              <mxPoint x="187.79000000000002" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ieE3qM7nnkE8MddVRtgH-101" value="Private Subnet 3" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="ieE3qM7nnkE8MddVRtgH-7">
           <mxGeometry x="981" y="1050" width="280" height="180" as="geometry" />
         </mxCell>
@@ -252,14 +262,6 @@
         </mxCell>
         <mxCell id="ieE3qM7nnkE8MddVRtgH-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ieE3qM7nnkE8MddVRtgH-7" source="ieE3qM7nnkE8MddVRtgH-41" target="ieE3qM7nnkE8MddVRtgH-90">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ieE3qM7nnkE8MddVRtgH-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ieE3qM7nnkE8MddVRtgH-7" source="ieE3qM7nnkE8MddVRtgH-113" target="ieE3qM7nnkE8MddVRtgH-118">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="182" y="1190" />
-              <mxPoint x="269" y="1190" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ieE3qM7nnkE8MddVRtgH-181" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ieE3qM7nnkE8MddVRtgH-7" source="ieE3qM7nnkE8MddVRtgH-118" target="ieE3qM7nnkE8MddVRtgH-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
